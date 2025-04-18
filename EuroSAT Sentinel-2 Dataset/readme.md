@@ -1,4 +1,5 @@
-https://media1.tenor.com/m/lvLaG5hPCncAAAAd/data-analysis.gif![image](https://github.com/user-attachments/assets/2e6210a0-8b82-402f-b975-1effebbe6a5e)
+![data-analysis](https://github.com/user-attachments/assets/c8f7167d-3f2a-4384-93f3-46650c251721)
+
 
 # модель машинного обучения на основе EuroSAT Sentinel-2 Dataset
 
